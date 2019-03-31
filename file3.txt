@@ -1,2 +1,0 @@
- This is the new file for checking back from staging area
-Test modified version
